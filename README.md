@@ -1,4 +1,4 @@
-# Android architecture components boiler plate code for kotlin
+# Android architecture components boilerplate code for kotlin
 
 The prject includes.
 
